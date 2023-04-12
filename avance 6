@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html >
+<head>
+<title>My Titulo</title>
+</head>
+<body>
+   
+<p>Avance 6 - UPC</p>
+
+<a>Operaciones Logicas #1</a><a>
+<button onclick="EjercicioUno()" >EjercicioUno</button>
+
+<a>Operaciones Logicas #2</a><a></a>
+<button onclick="EjeecicioDos()" >EjercicioUno</button>
+<script>
+//Codigo de Programacion - INICIA
+function EjercicioUno(){
+    if(((5 >= 5) != (9 < 10)) || ((10 > 10) == false)){
+        alert("TRUE")    
+    }else{
+        alert("FALSE")
+    }
+}
+//Codigo de Programacion - TERMINA
+</script>   
+
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link real="styleshhet" type="text/css" href="estilos123.css" />
+    <title>Practico Programacion</title>
+</head>
+<body>
+<h1 class="letra_azul">Nombre Completo</h1>
+<hr>
+<p>1.- Mostrar los numeros impares de N</p>
+<p> Ejemplo: -> 1,2,3,5,7,9,11,13</p>
+<button onclick="EjercicioUno()"></button>
+
+<script>
+//Codigo de programacion - INICIO
+function EjercicioUno(){
+
+}
+//Codigode programacion - FIN
+</script>    
+</body>
+</html>

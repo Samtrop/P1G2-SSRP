@@ -1,0 +1,30 @@
+
+.h-16{
+    height: 100px;
+}
+
+.w-25{
+    width: 25%;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.fondo-celeste{
+    background-color: #155587;
+}
+
+.fondo-igual{
+    border: none;
+    background: url('/img/equal-sign.png') no-repeat top left;
+    padding: 2px 8px;
+}
+
+.w-button{
+    width: 100px !important;
+}
+
+.h-button{
+    height: 100px !important;
+}
